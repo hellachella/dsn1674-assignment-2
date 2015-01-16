@@ -1,2 +1,2 @@
 # semantics
-Assignment 1, Web Development 1.  HTML.
+Assignment 2, Web Development 1.  HTML.
